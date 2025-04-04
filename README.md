@@ -14,6 +14,7 @@ Welcome to my portfolio repository! This repository showcases a collection of my
 - React
 - HTML, CSS, JavaScript
 - Other relevant tools and frameworks
+- (JSON)
 
 ## Installation & Setup
 
