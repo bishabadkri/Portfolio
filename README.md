@@ -11,7 +11,7 @@ Welcome to my portfolio repository! This repository showcases a collection of my
 - **Project 3**: About to come soon
 ## Technologies Used
 
-- React
+- React, TS
 - HTML, CSS, JavaScript
 - Other relevant tools and frameworks
 - (JSON)
