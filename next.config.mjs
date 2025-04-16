@@ -1,3 +1,9 @@
+// next.config.mjs
+export default {
+  basePath: '/Portfolio',
+  // other configurations...
+};
+
 let userConfig = undefined
 try {
   // try to import ESM first
