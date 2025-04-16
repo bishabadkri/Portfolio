@@ -1,15 +1,12 @@
 // next.config.mjs
-export default {
+const nextConfig = {
   output: 'export',
   basePath: '/Portfolio',
   trailingSlash: true,
-  // other configurations...
 };
-// next.config.mjs
-export default {
-  basePath: '/Portfolio',
-  // other configurations...
-};
+
+export default nextConfig;
+
 
 let userConfig = undefined
 try {
